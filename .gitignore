@@ -1,0 +1,63 @@
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Local History for Visual Studio Code
+.history/
+ 
+# Common credential files
+**/credentials.json
+**/client_secrets.json
+**/client_secret.json
+*.dat
+ 
+# Private Node Modules
+**node_modules/**
+
+# OS generated files
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+ 
+# Byte-compiled / optimized / DLL files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs / databases
+*.log
+*.sql
+*.sqlite
+ 
+# Distribution / packaging
+build/
+dist/
+lib/
+lib64/
+var/
+ 
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/

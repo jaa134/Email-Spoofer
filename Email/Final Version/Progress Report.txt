@@ -1,0 +1,15 @@
+Jacob Alspaw   jaa134
+Justin Lee     jpl88
+
+During the latest update we attempted to implement an anonymous email option, 
+but realized that although implemented easily within less than 4 lines of code,
+it was entirely too high risk to release. This option was not included in the
+final  version because if learned, then any user with this knowledge could spoof
+email from any unauthenticated smtp server (CWRU). This would allow people the
+ability to send mail from other's accounts without their permission, or username
+and password combination. There would be malicious spam everywhere.
+
+Besides this concept, the remaining time devoted to this project was fixing 
+any and all bugs that could have possibly shown. Very few were found and have 
+been taken care of. Justin and I were both part of this process as we played
+with the program to test its functionality. 

@@ -1,0 +1,5 @@
+Jutin and I worked on this project completly together. We met up one day and completed this assignment.
+I was the one typing, while Justin and I both contributed to the design. The difficulties with this 
+version was reading from the text files. They proved very difficult to manipulate the strings correctly. 
+Additionally, the need for resizing the gui when files are attached was overly complicated. Sending the emails
+themselves was suprisingly easy.

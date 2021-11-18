@@ -1,0 +1,8 @@
+In this release, I have updated many things. I have added in te support of more 
+than just Gmail's service. There is now the choice of 8 different email services
+that this program is now an exteension of. This program was also updated with bugs
+that would popup every now and then, while testing for internet connectivity has 
+been improved. Lastly, I have added in a simple menu that propmts the user when 
+they hit the red x button if they would like to log out, quit, or cancel. 
+
+Justin and I again just work on this together, sitting side by side!
